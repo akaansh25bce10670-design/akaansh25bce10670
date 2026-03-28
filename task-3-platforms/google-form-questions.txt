@@ -1,0 +1,50 @@
+Google Form Title:
+Digital Literacy Awareness Survey
+
+Description:
+This survey aims to understand students' awareness about digital literacy, cybersecurity, and safe internet practices.
+
+Questions:
+
+1. What does digital literacy mean?
+Options:
+- Ability to use digital devices and internet
+- Ability to play games
+- Ability to use social media only
+- None of the above
+
+Correct Answer: Ability to use digital devices and internet
+
+--------------------------------------------------
+
+2. Which of the following is a safe internet practice?
+Options:
+- Sharing passwords with friends
+- Clicking unknown links
+- Using strong passwords
+- Ignoring security updates
+
+Correct Answer: Using strong passwords
+
+--------------------------------------------------
+
+3. What should you do if you receive a suspicious email?
+Options:
+- Open all links immediately
+- Share personal information
+- Ignore and delete the email
+- Forward it to unknown people
+
+Correct Answer: Ignore and delete the email
+
+--------------------------------------------------
+
+4. Do you use strong passwords for your online accounts?
+Type: Short Answer
+
+--------------------------------------------------
+
+5. Have you heard about phishing attacks before?
+Options:
+- Yes
+- No
