@@ -1,0 +1,18 @@
+To: internship@company.com
+Subject: Application for Internship Opportunity
+
+Respected Sir/Madam,
+
+I hope this email finds you well. My name is Atieksh Avinash Pandey, and I am a first-year student pursuing CSE Cyber Security & Digital Forensics at VIT Bhopal University. I am writing to express my interest in applying for an internship opportunity at your organization.
+
+I am passionate about learning new technologies and improving my programming and cybersecurity skills. I am currently building my digital portfolio using platforms such as GitHub, LinkedIn, and HackerRank. I am eager to gain practical experience and contribute positively to your team.
+
+I would be grateful if you could consider my application for any suitable internship opportunities available. I am willing to learn and work diligently to enhance my skills and knowledge.
+
+Thank you for your time and consideration.
+
+Yours sincerely,  
+Atieksh Avinash Pandey  
+Registration Number: 25BCY10093  
+VIT Bhopal University  
+Email: your-email@example.com
